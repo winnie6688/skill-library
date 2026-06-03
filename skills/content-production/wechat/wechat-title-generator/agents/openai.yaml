@@ -1,0 +1,5 @@
+interface:
+  display_name: "Wechat Title Generator"
+  short_description: "WeChat Official Account content production skill for AI Native Content Lab."
+  icon: "🟢"
+  color: "#8DAA91"
