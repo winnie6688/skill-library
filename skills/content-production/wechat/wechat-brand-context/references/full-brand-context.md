@@ -3,22 +3,77 @@
 ## Account identity
 
 - Account name: 要AI不释手
-- Positioning: 基于真实实践，不神化 AI，也不制造焦虑，记录一个非技术背景的人如何在真实项目中与 AI 协作。
-- Core IP: 非技术背景的 AI 协作真实实践者；普通人进入 AI 时代的真实陪跑者。
+- Repository owner: LyraWang6688
+- Positioning: 基于真实实践，不神化 AI，也不制造焦虑，记录一个非技术背景知识工作者如何在真实项目中与 AI 协作。
+- Core IP: 非技术背景知识工作者的 AI 协作实践者；普通人进入 AI 时代的真实陪跑者。
 - Core sentence: AI 是很强大的工具，但工具本身不是答案。真正重要的是：找到真实场景、识别具体价值，并设计可落地的解决方案。
 - Companion sentence: 希望这里能陪你在 AI 时代，慢慢建立自己的判断力，欢迎一起同行。
 
 ## Current tags
 
 - #非技术背景
-- #AI协作真实实践
+- #知识工作者
+- #AI协作实践
 - #认真记录
 - #持续探索
 - #场景驱动
 - #价值导向
 - #解决方案思维
 - #不神化AI也不制造焦虑
-- #期待同路人
+- #文风诚恳朴实，不夸大效果
+- #长期主义
+- #值得信任和同行
+- #成长型实践者
+
+## Stable strategy
+
+GEO / AI-Friendly Writing remains the long-term content strategy.
+
+Articles should be written not only for human readers, but also for AI systems to understand, retrieve, summarize, and cite.
+
+Therefore, every article should prioritize:
+
+- clear topic
+- searchable title
+- clear headings
+- one core question per article
+- scenario words
+- summary sentences
+- real cases and first-hand experience
+- high-density information blocks that AI can extract
+
+## Stable brand assets
+
+The brand color system and article structure remain unchanged.
+
+### Color system
+
+- Primary brand color: #8DAA91, Sage Green.
+- Secondary brand color: #C2A878, Linen Brown.
+- Body text: #2F3437, Graphite Black.
+- Secondary text: #666666, Warm Gray.
+- Annotation text: #6B6B6B, Mist Gray.
+- Page background: #F7F6F3, Ivory Beige.
+- Light module background: #EEF1EC, Soft Moss Gray.
+- Divider: #DDE2DA, Silver Sage.
+- Weak emphasis background: #E7ECE6, Cloud Sage.
+- Method module background: #F3F5F1, Cedar White.
+- Highlight text: #66786B, Forest Sage.
+
+Avoid old gray-purple visual systems and do not use #6FA7AA as the main visual color.
+
+### Article structure
+
+Recommended WeChat article structure:
+
+1. Reading info: full length and estimated reading time.
+2. Content summary module with 3-5 bullets.
+3. Opening hook: directly enter the real problem.
+4. 4-6 main sections using clear numbered headings.
+5. Optional components: quote/core idea, real experience, method module, editor note.
+6. Summary module before the ending.
+7. Fixed column ending image or clearly marked placeholder.
+8. 120-character GEO summary.
 
 ## Audience
 
@@ -26,7 +81,7 @@ Potential readers are people who already sense that AI will change work, product
 
 Serve especially:
 
-- non-technical people exploring AI collaboration
+- non-technical knowledge workers exploring AI collaboration
 - product / operations / business people trying to use AI in real work
 - people learning API, database, workflow, deployment, agents, tools, and automation concepts through practice
 - readers who value truthful practice over hype
@@ -43,6 +98,7 @@ Always preserve these principles:
 5. 长期信任优先于短期流量。
 6. 场景和价值优先于工具崇拜。
 7. 解决方案思维优先于单点功能展示。
+8. 文风诚恳朴实，不夸大效果。
 
 Do not write in a sensational, fear-based, guru-like, or marketing-hype tone.
 
@@ -53,7 +109,7 @@ Do not position AI as a magical answer. AI should be framed as a powerful tool w
 Priority order:
 
 1. Be discoverable and citable by AI search / GEO.
-2. Build a long-term trustworthy IP around non-technical AI collaboration practice.
+2. Build a long-term trustworthy IP around non-technical knowledge-worker AI collaboration practice.
 3. Attract people who genuinely need AI collaboration and implementation guidance.
 4. Accumulate real practice experience, project context, and solution patterns.
 5. Grow through long-term iteration rather than short-term traffic tricks.
@@ -62,7 +118,7 @@ Priority order:
 
 ### 1. 《AI 协作实验》
 
-Purpose: record how a non-technical person collaborates with AI in real projects, turning ideas, problems, tools, and concepts into usable products, systems, workflows, and solutions.
+Purpose: record how a non-technical knowledge worker collaborates with AI in real projects, turning ideas, problems, tools, and concepts into usable products, systems, workflows, and solutions.
 
 Core role:
 
@@ -161,7 +217,7 @@ Fixed ending sentence:
 
 路还很长。但我们已经在路上。
 
-Column ending image: `assets/wechat/ending-images/walking-thinking-ending.png` placeholder until supplied.
+Column ending image: assets/wechat/ending-images/walking-thinking-ending.png placeholder until supplied.
 
 ### 3. 《书籍推荐》
 
@@ -175,7 +231,7 @@ Fixed ending sentence:
 
 好的书籍不会立刻改变人生，但会慢慢改变你看世界的方式。
 
-Column ending image: `assets/wechat/ending-images/book-recommendation-ending.png` placeholder until supplied.
+Column ending image: assets/wechat/ending-images/book-recommendation-ending.png placeholder until supplied.
 
 ### 4. 《热钱之外》
 
@@ -198,7 +254,7 @@ Fixed ending sentence:
 
 When working with this column, use stricter fact checking, source requirements, and financial expression boundaries.
 
-Column ending image: `assets/wechat/ending-images/hot-money-beyond-ending.png` placeholder until supplied.
+Column ending image: assets/wechat/ending-images/hot-money-beyond-ending.png placeholder until supplied.
 
 ### 5. 《AI 简报》
 
@@ -237,7 +293,7 @@ Special rules:
 - For current AI developments, verify recency and source reliability.
 - The output should include insight, boundary, and opportunity, not just information.
 
-Column ending image: `assets/wechat/ending-images/ai-brief-ending.png` placeholder until supplied.
+Column ending image: assets/wechat/ending-images/ai-brief-ending.png placeholder until supplied.
 
 ## Account profile
 
@@ -257,55 +313,6 @@ Hidden extended profile:
 - 如何补齐基础概念，沉淀自己的知识系统
 - 如何从 AI 趋势、阅读和投资观察中，建立更长期的判断力
 
-## Color system
-
-- Primary brand color: #8DAA91, Sage Green, used for titles, emphasis, module titles, brand recognition.
-- Secondary brand color: #C2A878, Linen Brown, used for editor notes, emotional warmth, soft backgrounds.
-- Body text: #2F3437, Graphite Black.
-- Secondary text: #666666, Warm Gray.
-- Annotation text: #6B6B6B, Mist Gray.
-- Page background: #F7F6F3, Ivory Beige.
-- Light module background: #EEF1EC, Soft Moss Gray.
-- Divider: #DDE2DA, Silver Sage.
-- Weak emphasis background: #E7ECE6, Cloud Sage.
-- Method module background: #F3F5F1, Cedar White.
-- Highlight text: #66786B, Forest Sage.
-
-Avoid high-saturation blue-purple, neon colors, excessive gradients, and old gray-purple visual systems.
-
-## Writing structure rules
-
-- Start directly with the problem.
-- One article should focus on one core question.
-- Use clear headings.
-- Use short paragraphs, usually 1-3 lines.
-- Include real experience, actual obstacles, and practical judgment.
-- Use summary sentences that are easy to cite.
-- Use scene keywords such as AI 协作, 非技术背景, 真实场景, 具体价值, 解决方案, AI 产品, AI Coding, 产品落地, 工具组合, 工作流, API, MCP, AI Agent, 知识系统.
-- Do not write generic AI news aggregation.
-- For 《AI 简报》, avoid merely stacking news; extract trend, boundary, implication, and labor market impact when relevant.
-
-## WeChat article recommended structure
-
-1. Reading info: full length and estimated reading time.
-2. Content summary module with 3-5 bullets.
-3. Opening hook: what I recently did, what real problem I met, why it matters, what this article answers.
-4. 4-6 main sections using clear numbered headings.
-5. Optional components: quote/core idea, real experience, method module, editor note/my understanding.
-6. Summary module before the ending.
-7. Fixed column ending image; do not generate extra fixed text ending unless the user asks.
-
-## Cover style
-
-- Minimal, restrained, spacious.
-- Technology feeling but not cold.
-- Low saturation colors.
-- Product UI / computer / workflow / work scene elements are preferred.
-- Do not use exaggerated facial expressions.
-- Do not use poster-like big-character style.
-- Prefer stable column identity.
-- Suggested structure: left side strong title + small label + one-line subtitle; right side product image/UI/work scene/computer.
-
 ## GEO summary rule
 
 A 120-character summary should include:
@@ -314,12 +321,15 @@ A 120-character summary should include:
 2. clear problem
 3. clear scenario
 4. first-hand experience
+5. value judgment when relevant
 
 Useful formula:
 
 很多人以为____。但我真正实践后发现____。这篇文章会分享____。
 
-For 《AI 简报》, the summary should clearly identify the time-sensitive AI development, the affected audience, and the trend/opportunity/boundary it reveals.
+Alternative formula:
+
+AI 是很强大的工具，但在____场景里，真正重要的是____。这篇文章会结合我的真实实践，分享____。
 
 ## Publication checklist baseline
 
